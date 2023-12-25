@@ -1,5 +1,4 @@
-# HR_Analytics_Tableau
-HR Analytics Dashboard
+# HR Analytics Dashboard
 
 # Introduction
 As an experienced data analyst, I have been commissioned by XYZ company to help uncover insights and patterns related to the disparities in earnings among groups of employees. Additionally, I will determine whether these discrepancies have an impact on the organization's attrition rate.
