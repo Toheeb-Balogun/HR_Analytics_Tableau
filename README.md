@@ -34,7 +34,7 @@ Furthermore, a LOD expression was used to create new fields such as average inco
 o	{FIXED [Age (group)]: AVG([Monthly Income])}
 o	{FIXED : AVG([MonthlyIncome])}      
 # Data Analysis and Visuals
-[]
+![Dashboard](https://github.com/Toheeb-Balogun/HR_Analytics_Tableau/blob/main/HR_Analytics%20Dashboard.png)
 From the Analysis conducted the following insights were gotten
 1.	The age of majority of employees fall between the age group 26-45. Similarly, the majority of the employee that have left the organization fall within this same age bracket.
 2.	The average income of all employees in the organization is $6796.73.  Age group 46-55 and 56-60 are earning $4425 and $2695 more than average respectivlely. While age group 18-25 are the age group with lowest earning and they earn $3530 less than average.
